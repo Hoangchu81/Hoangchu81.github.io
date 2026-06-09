@@ -1,0 +1,25 @@
+name: Sync Google Scholar Publications
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 0'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install scholarly
+      - run: python scripts/sync_scholar.py
+        env:
+          SCHOLAR_ID: ${{ secrets.SCHOLAR_ID }}
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/publications.json
+          git commit -m "Sync Google Scholar publications" || exit 0
+          git push
