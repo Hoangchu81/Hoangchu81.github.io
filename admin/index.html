@@ -17,6 +17,7 @@
 <button class="btn primary" onclick="openModal()">+ Thêm tin mới</button>
 <button class="btn" onclick="exportJSON()">📥 Export JSON</button>
 <button class="btn" onclick="importJSON()">📤 Import JSON</button>
+<button class="btn primary" onclick="publishToGitHub()">🚀 Publish lên GitHub</button>
 <input type="file" id="importFile" accept=".json" style="display:none" onchange="handleImport(event)">
 <input class="search" type="search" placeholder="🔍 Tìm kiếm tin bài..." oninput="filterNews(this.value)">
 <select style="width:auto" onchange="filterCat(this.value)"><option value="">Tất cả danh mục</option><option value="STI Policy">STI Policy</option><option value="AI & Digital">AI & Digital</option><option value="Digital Health">Digital Health</option><option value="Khác">Khác</option></select>
@@ -127,6 +128,38 @@ function dragOver(e){e.preventDefault();e.dataTransfer.dropEffect='move'}
 function drop(e){e.preventDefault();const targetId=e.currentTarget.dataset.id;if(!draggedId||draggedId===targetId)return;const fromIdx=news.findIndex(x=>x.id===draggedId);const toIdx=news.findIndex(x=>x.id===targetId);const [item]=news.splice(fromIdx,1);news.splice(toIdx,0,item);persist();draggedId=null}
 
 loadNews();
-</script>
+
+// GitHub API auto-commit
+const GH_REPO='Hoangchu81/Hoangchu81.github.io';
+const GH_PATH='data/news.json';
+const GH_BRANCH='main';
+
+function getToken(){
+let t=localStorage.getItem('gh_token');
+if(!t){t=prompt('Nhập GitHub Personal Access Token (PAT) để publish:');if(t)localStorage.setItem('gh_token',t)}
+return t;
+}
+
+async function publishToGitHub(){
+const token=getToken();
+if(!token){alert('Cần PAT để publish.');return}
+const btn=event.target;btn.disabled=true;btn.textContent='⏳ Đang publish...';
+try{
+// Get current file SHA
+const meta=await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_PATH}?ref=${GH_BRANCH}`,{headers:{'Authorization':`token ${token}`}});
+let sha='';
+if(meta.ok){const j=await meta.json();sha=j.sha}
+// Commit
+const content=btoa(unescape(encodeURIComponent(JSON.stringify(news,null,2))));
+const res=await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_PATH}`,{
+method:'PUT',
+headers:{'Authorization':`token ${token}`,'Content-Type':'application/json'},
+body:JSON.stringify({message:`Update news: ${new Date().toISOString().slice(0,16)}`,content,sha,branch:GH_BRANCH})
+});
+if(res.ok){alert('✅ Đã publish lên GitHub thành công! Site sẽ cập nhật trong 1-2 phút.')}
+else{const e=await res.json();alert('❌ Lỗi: '+(e.message||res.status))}
+}catch(err){alert('❌ Lỗi kết nối: '+err.message)}
+finally{btn.disabled=false;btn.textContent='🚀 Publish lên GitHub'}
+}</script>
 </body>
 </html>
