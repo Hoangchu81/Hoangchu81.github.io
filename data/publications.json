@@ -311,16 +311,6 @@
   },
   {
     "id": "scholar-32",
-    "title": "Real time inverse kinematics of five-axis cnc centers",
-    "authors": "TA Nguyen, MN Vu, ELJ Bohez, M Parkianather, CA My, CH Le, ...",
-    "venue": "",
-    "year": "",
-    "citations": "1",
-    "topic": "STI",
-    "url": ""
-  },
-  {
-    "id": "scholar-33",
     "title": "Heart rate variability analysis using poincaré plot of rr intervals",
     "authors": "NT Linh, PD Trung, CD Hoang, ND Thuan",
     "venue": "Tạp Chí Khoa Học Và Công Nghệ-Đại Học Đà Nẵng, 67-71",
@@ -330,7 +320,7 @@
     "url": ""
   },
   {
-    "id": "scholar-34",
+    "id": "scholar-33",
     "title": "Detecting congestive heart rate variability failure using pointcaré trend analysis plot",
     "authors": "HC Duc, HP Manh, TN Duc, DN Viet",
     "venue": "International Journal of Bioscience, Biochemistry and Bioinformatics 3 (6), 566",
@@ -340,7 +330,7 @@
     "url": ""
   },
   {
-    "id": "scholar-35",
+    "id": "scholar-34",
     "title": "Time frequency analysis of heart rate variability with chaos theory",
     "authors": "H ChuDuc, PK Stein",
     "venue": "2013 13th International Conference on Computational Science and Its …",
@@ -350,11 +340,21 @@
     "url": ""
   },
   {
-    "id": "scholar-36",
+    "id": "scholar-35",
     "title": "Effect of Respiration in HRV Analysis using Chaos Theory",
     "authors": "H ChuDuc, T NguyenDuc, T PhamDinh",
     "venue": "Journal of Medical and Bioengineering Vol 2 (1)",
     "year": "2013",
+    "citations": "1",
+    "topic": "STI",
+    "url": ""
+  },
+  {
+    "id": "scholar-36",
+    "title": "Real Time Inverse Kinematics of Five-Axis CNC Centers",
+    "authors": "ELJ Bohez, MD Vu, TA Nguyen, MP Van Cong Nguyen, CD Hoang",
+    "venue": "",
+    "year": "",
     "citations": "1",
     "topic": "STI",
     "url": ""
@@ -661,6 +661,16 @@
   },
   {
     "id": "scholar-67",
+    "title": "Physics-Informed Monte Carlo Data Augmentation for Robust Raman-Based Skin Cancer Classification Under Small-Sample Constraints",
+    "authors": "H ChuDuc, NT Tung",
+    "venue": "Available at SSRN 7140482, 0",
+    "year": "",
+    "citations": "",
+    "topic": "AI",
+    "url": ""
+  },
+  {
+    "id": "scholar-68",
     "title": "Copyright Page ix Organizing Committee Information x Authors Index xiii Effect Of Mimosa Pudica Linn Extract On Excision Wound Healing 1 Chiuyen Phan, Tantai Vo, Dinhtrung Tran …",
     "authors": "AL Nguyen",
     "venue": "",
@@ -670,7 +680,7 @@
     "url": ""
   },
   {
-    "id": "scholar-68",
+    "id": "scholar-69",
     "title": "Designing Forecasting Parameter Algorithm of Environmental Shrimp Using Recurrent Neural",
     "authors": "PN Huu, QD Diem, ML Van, HC Duc, NC Tu, NT Binh, NQ Dinh, ...",
     "venue": "",
@@ -680,7 +690,7 @@
     "url": ""
   },
   {
-    "id": "scholar-69",
+    "id": "scholar-70",
     "title": "Final Program",
     "authors": "GM Danang",
     "venue": "",
@@ -690,7 +700,7 @@
     "url": ""
   },
   {
-    "id": "scholar-70",
+    "id": "scholar-71",
     "title": "Fatma Abdelkefi High School of Communications of Tunis (SUPCOM) Tunisia Chadi Abou-Rjeily Lebanese American University (LAU) Lebanon Syed Hassan Ahmed University of Central …",
     "authors": "M Alencar, G Alfano, M Alghoniemy, MY Alias, S Althunibat, ...",
     "venue": "",
@@ -700,7 +710,7 @@
     "url": ""
   },
   {
-    "id": "scholar-71",
+    "id": "scholar-72",
     "title": "Tran Duc-Tan Phenikaa University Vietnam Tran Trung Duy Posts and Telecommunications Institute of Technology Vietnam Wei Feng Tsinghua University China",
     "authors": "YL Foo, JGU France, R Garroppo, D Gasior, A Gawanmeh, CS Gong, ...",
     "venue": "",
@@ -710,7 +720,7 @@
     "url": ""
   },
   {
-    "id": "scholar-72",
+    "id": "scholar-73",
     "title": "Fatma Abdelkefi High School of Communications of Tunis (SUPCOM) Tunisia Chadi Abou-Rjeily Lebanese American University (LAU) Lebanon Thomas Ågotnes University of Bergen Norway …",
     "authors": "C Tran",
     "venue": "",
@@ -720,7 +730,7 @@
     "url": ""
   },
   {
-    "id": "scholar-73",
+    "id": "scholar-74",
     "title": "A. Chaminda J. Samarasekera Kyung Hee University Korea Adrianna",
     "authors": "AJDE Germany, BJENS de Cachan France, BJ Choi, CTN Australia",
     "venue": "",
@@ -730,7 +740,7 @@
     "url": ""
   },
   {
-    "id": "scholar-74",
+    "id": "scholar-75",
     "title": "MÔ HÌNH KIẾN TRÚC TỔNG THỂ HỆ THỐNG HỖ TRỢ VÀ QUẢN LÝ DU KHÁCH NHẰM PHÁT TRIỂN DU LỊCH BỀN VỮNG THEO ĐỊNH HƯỚNG THÀNH PHỐ THÔNG MINH TẠI ĐÀ NẴNG",
     "authors": "CIN DANANG",
     "venue": "",
@@ -740,7 +750,7 @@
     "url": ""
   },
   {
-    "id": "scholar-75",
+    "id": "scholar-76",
     "title": "Tạp chí",
     "authors": "Đ SAO ĐỎ",
     "venue": "",
@@ -750,7 +760,7 @@
     "url": ""
   },
   {
-    "id": "scholar-76",
+    "id": "scholar-77",
     "title": "Phát triển các giải pháp và thiết bị chiếu tia cực tím (UVC) tiết kiệm và hiệu quả để khử nhiễm nhanh chóng SARS-CoV-2 trên khẩu trang N95",
     "authors": "NM Cường, ĐT Huy, VT Tiếp, CĐ Hoàng",
     "venue": "",
@@ -760,7 +770,7 @@
     "url": ""
   },
   {
-    "id": "scholar-77",
+    "id": "scholar-78",
     "title": "xây dựng giải pháp ỨNG DỤNG CÔNG NGHỆ iOT VÀ THUỶ CANH HỒI LƯU TRONG SẢN XUẤT SẠCH ĐẠT TIÊU CHUẨN VIETGAP",
     "authors": "CĐ Hoàng, ĐX Trường, HTY Mai, NĐ Thành",
     "venue": "",
@@ -770,7 +780,7 @@
     "url": ""
   },
   {
-    "id": "scholar-78",
+    "id": "scholar-79",
     "title": "Research on Smart Mobile Application and Cloud TECHNOLOGY for Monitoring and Diagnosing Diabetes",
     "authors": "PVHCĐ Hoàng",
     "venue": "The University of Danang-Journal of Science and Technology, 449531, 0",
@@ -780,7 +790,7 @@
     "url": ""
   },
   {
-    "id": "scholar-79",
+    "id": "scholar-80",
     "title": "Design and Manufacture Electronic Scales for Adult Patients",
     "authors": "KNP Le Xuan Canh, H ChuDuc",
     "venue": "",
@@ -790,7 +800,7 @@
     "url": ""
   },
   {
-    "id": "scholar-80",
+    "id": "scholar-81",
     "title": "Tính toán và phân tích các chỉ số Poincaré đa giá trị của các bệnh nhân suy tim sung huyết",
     "authors": "L NguyenThanh, K NguyenPhan, D TrinhQuang, H ChuDuc",
     "venue": "",
@@ -800,7 +810,7 @@
     "url": ""
   },
   {
-    "id": "scholar-81",
+    "id": "scholar-82",
     "title": "Hệ thống ổn định nhiệt độ cho tủ lưu trữ máu",
     "authors": "CT Dũng, K NguyenPhan, NM Cường, H ChuDuc",
     "venue": "",
@@ -810,7 +820,7 @@
     "url": ""
   },
   {
-    "id": "scholar-82",
+    "id": "scholar-83",
     "title": "A Data Acquisition System for QRS Detections",
     "authors": "H ChuDuc, K NguyenPhan",
     "venue": "",
@@ -820,7 +830,7 @@
     "url": ""
   },
   {
-    "id": "scholar-83",
+    "id": "scholar-84",
     "title": "Information from graphical analysis of heart rate variability using chaos theory",
     "authors": "H ChuDuc, T NguyenDuc",
     "venue": "",
@@ -830,7 +840,7 @@
     "url": ""
   },
   {
-    "id": "scholar-84",
+    "id": "scholar-85",
     "title": "A Brief Review of Biomedical Optical Imaging Towards Clinical Applications",
     "authors": "TQ Duc, TD Thanh, K NguyenPhan, H ChuDuc",
     "venue": "",
@@ -840,7 +850,7 @@
     "url": ""
   },
   {
-    "id": "scholar-85",
+    "id": "scholar-86",
     "title": "Measurement of Heart Rate Variability by Methods based on Chaos Theory",
     "authors": "H ChuDuc, T NguyenDuc",
     "venue": "",
