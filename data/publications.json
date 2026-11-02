@@ -5,7 +5,7 @@
     "authors": "H ChuDuc, K NguyenPhan, D NguyenViet",
     "venue": "APCBEE procedia 7, 80-85",
     "year": "2013",
-    "citations": "252",
+    "citations": "256",
     "topic": "Biomedical",
     "url": ""
   },
@@ -15,7 +15,7 @@
     "authors": "M Kox, MQ Vrouwenvelder, JC Pompe, JG van der Hoeven, P Pickkers, ...",
     "venue": "Journal of neurotrauma 29 (5), 747-755",
     "year": "2012",
-    "citations": "84",
+    "citations": "86",
     "topic": "Biomedical",
     "url": ""
   },
@@ -45,7 +45,7 @@
     "authors": "PN Huu, DN Thanh, T le Thi Hai, HC Duc, HP Viet, CN Trong",
     "venue": "2022 7th National Scientific Conference on Applying New Technology in Green …",
     "year": "2022",
-    "citations": "12",
+    "citations": "13",
     "topic": "AI",
     "url": ""
   },
@@ -131,6 +131,16 @@
   },
   {
     "id": "scholar-14",
+    "title": "The impact of covid-19 response policies on select vulnerable groups in Vietnam",
+    "authors": "T Do, E Kasper",
+    "venue": "The Institute of Development Studies and Partner Organisations",
+    "year": "2022",
+    "citations": "4",
+    "topic": "STI",
+    "url": ""
+  },
+  {
+    "id": "scholar-15",
     "title": "Real time inverse kinematics of five-axis CNC centers",
     "authors": "CA My, CH Le, XB Duong, ELJ Bohez, MD Vu, TA Nguyen, VC Nguyen, ...",
     "venue": "International Conference on Material, Machines and Methods for Sustainable …",
@@ -140,7 +150,7 @@
     "url": ""
   },
   {
-    "id": "scholar-15",
+    "id": "scholar-16",
     "title": "Compact and low-loss 90-deg optical hybrid based on silicon-on-insulator 2× 2 multimode interference couplers",
     "authors": "CD Truong, CN Le, DH Ta, HDN Thi, TH Nguyen, HC Duc",
     "venue": "Optical Engineering 59 (9), 095108-095108",
@@ -150,7 +160,7 @@
     "url": ""
   },
   {
-    "id": "scholar-16",
+    "id": "scholar-17",
     "title": "Automatic removal of EOG artifacts using SOBI algorithm combined with intelligent source identification technique",
     "authors": "ND Dang, DA Nguyen, TA Nguyen, DH Chu, DT Tran",
     "venue": "2017 International Conference on Advanced Technologies for Communications …",
@@ -160,7 +170,7 @@
     "url": ""
   },
   {
-    "id": "scholar-17",
+    "id": "scholar-18",
     "title": "Circular economy policies in Vietnam: Assessing implementation and impact On green manufacturing",
     "authors": "TH Ngoc, HC Duc, TH Hai",
     "venue": "Green Transformation in the Context of Global Change: Proceedings of the …",
@@ -170,23 +180,13 @@
     "url": ""
   },
   {
-    "id": "scholar-18",
+    "id": "scholar-19",
     "title": "An open-architecture integration solution for the research and development of smart robots",
     "authors": "TT Do, QH Nguyen, DH Chu",
     "venue": "Vietnam Journal of Science, Technology and Engineering 64 (4), 36-44",
     "year": "2022",
     "citations": "3",
     "topic": "AI",
-    "url": ""
-  },
-  {
-    "id": "scholar-19",
-    "title": "The impact of covid-19 response policies on select vulnerable groups in Vietnam",
-    "authors": "T Do, E Kasper",
-    "venue": "The Institute of Development Studies and Partner Organisations",
-    "year": "2022",
-    "citations": "3",
-    "topic": "STI",
     "url": ""
   },
   {
@@ -221,6 +221,26 @@
   },
   {
     "id": "scholar-23",
+    "title": "A Hybrid 1D-CNN and Transformer Architecture for Differentiating Malignant Melanoma from Non-Melanoma Skin Cancers using Raman Spectroscopy",
+    "authors": "H ChuDuc, NT Tung",
+    "venue": "2025 International Conference on Advanced Technologies for Communications …",
+    "year": "2025",
+    "citations": "2",
+    "topic": "STI",
+    "url": ""
+  },
+  {
+    "id": "scholar-24",
+    "title": "The EU&#39;s Carbon Border Adjustment Mechanism (CBAM): Challenges and Opportunities for Eco-Industrial Parks in Vietnam",
+    "authors": "VQ Anh, H ChuDuc, T Van Hai",
+    "venue": "2025 10th International Conference on Applying New Technology in Green …",
+    "year": "2025",
+    "citations": "2",
+    "topic": "STI",
+    "url": ""
+  },
+  {
+    "id": "scholar-25",
     "title": "Vietnam&#39;s renewable energy transition: policy frameworks and implementation challenges",
     "authors": "TH Ngoc, HC Duc, NV Hung",
     "venue": "Green transformation in the context of global change, 41-50",
@@ -230,7 +250,7 @@
     "url": ""
   },
   {
-    "id": "scholar-24",
+    "id": "scholar-26",
     "title": "Fostering a proficient IoT workforce in Vietnam: obstacles and suggestions",
     "authors": "LTK Tuyet, H ChuDuc, NQ Huy",
     "venue": "IET Conference Proceedings CP908 2024 (30), 294-299",
@@ -240,7 +260,7 @@
     "url": ""
   },
   {
-    "id": "scholar-25",
+    "id": "scholar-27",
     "title": "Designing forecasting parameter algorithm of environmental shrimp using recurrent neural network",
     "authors": "PN Huu, QD Diem, ML Van, HC Duc",
     "venue": "Journal of Science and Technology Issue on Information and Communications …",
@@ -250,7 +270,7 @@
     "url": ""
   },
   {
-    "id": "scholar-26",
+    "id": "scholar-28",
     "title": "A holistic architecture of tourist support and management services for the sustainable tourism development oriented toward a smart city in Danang",
     "authors": "TH Vũ, CĐ Hoàng, PC Thọ",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng, 145-150",
@@ -260,32 +280,12 @@
     "url": ""
   },
   {
-    "id": "scholar-27",
+    "id": "scholar-29",
     "title": "Overview the Challenges of Noninvasive Glucose Monitoring Techniques",
     "authors": "C Hoang, TN Le, MT Tran",
     "venue": "Proceedings of International Conference on Intelligent Unmanned Systems 11",
     "year": "2015",
     "citations": "2",
-    "topic": "STI",
-    "url": ""
-  },
-  {
-    "id": "scholar-28",
-    "title": "A Hybrid 1D-CNN and Transformer Architecture for Differentiating Malignant Melanoma from Non-Melanoma Skin Cancers using Raman Spectroscopy",
-    "authors": "H ChuDuc, NT Tung",
-    "venue": "2025 International Conference on Advanced Technologies for Communications …",
-    "year": "2025",
-    "citations": "1",
-    "topic": "STI",
-    "url": ""
-  },
-  {
-    "id": "scholar-29",
-    "title": "The EU&#39;s Carbon Border Adjustment Mechanism (CBAM): Challenges and Opportunities for Eco-Industrial Parks in Vietnam",
-    "authors": "VQ Anh, H ChuDuc, T Van Hai",
-    "venue": "2025 10th International Conference on Applying New Technology in Green …",
-    "year": "2025",
-    "citations": "1",
     "topic": "STI",
     "url": ""
   },
@@ -341,8 +341,18 @@
   },
   {
     "id": "scholar-35",
+    "title": "The role and policy of developing innovation data to support green growth and sustainable development",
+    "authors": "TH Ngọc, CĐ Hoàng, NQ Huy, NĐ Bình",
+    "venue": "Tạp chí Công Thương-Các kết quả nghiên cứu 11 (24)",
+    "year": "2026",
+    "citations": "",
+    "topic": "AI",
+    "url": ""
+  },
+  {
+    "id": "scholar-36",
     "title": "Hạ tầng số công trong nâng cao năng lực cạnh tranh xanh của doanh nghiệp Việt Nam",
-    "authors": "ĐH Chử",
+    "authors": "CĐ Hoàng",
     "venue": "Tạp chí Khoa học và Công nghệ Việt Nam-A, 44-44",
     "year": "2026",
     "citations": "",
@@ -350,9 +360,9 @@
     "url": ""
   },
   {
-    "id": "scholar-36",
+    "id": "scholar-37",
     "title": "Đổi mới quản lý nguồn nhân lực khu vực công tại Việt Nam: Thực trạng và đề xuất giải pháp theo hướng quản trị hiện đại",
-    "authors": "CĐ Hoàng, ĐT Hiền, BM Chuyên",
+    "authors": "HC Đức, CB Minh",
     "venue": "Tạp chí Khoa học xã hội miền Trung 88 (3), 17-17",
     "year": "2025",
     "citations": "",
@@ -360,7 +370,7 @@
     "url": ""
   },
   {
-    "id": "scholar-37",
+    "id": "scholar-38",
     "title": "Vietnam&#39;s Net Zero Ambition: An Emissions Data Analysis and Policy Assessment Towards Achieving Carbon Neutrality",
     "authors": "TH Ngoc, H ChuDuc, HV Tran",
     "venue": "2025 10th International Conference on Applying New Technology in Green …",
@@ -370,7 +380,7 @@
     "url": ""
   },
   {
-    "id": "scholar-38",
+    "id": "scholar-39",
     "title": "Computational Optimization of Gold Nanostar Geometry for High-Sensitivity SERS Biosensing",
     "authors": "NT Tung, H ChuDuc, NT Son",
     "venue": "2025 2nd International Conference on Health Science and Technology (ICHST), 1-6",
@@ -380,7 +390,7 @@
     "url": ""
   },
   {
-    "id": "scholar-39",
+    "id": "scholar-40",
     "title": "A systematic review on optimized integration of renewable energy in smart and green buildings",
     "authors": "TV Le, HC Duc, QX Tran, HT Nguyen",
     "venue": "Green Transformation in the Context of Global Change: Proceedings of the …",
@@ -390,7 +400,7 @@
     "url": ""
   },
   {
-    "id": "scholar-40",
+    "id": "scholar-41",
     "title": "Studying the effect of electrodes on the electrical impedance measurement of meat",
     "authors": "TT Dang, PK Nguyen, CD Hoang, TT Nguyen",
     "venue": "Journal of Military Science and Technology, 21-30",
@@ -400,7 +410,7 @@
     "url": ""
   },
   {
-    "id": "scholar-41",
+    "id": "scholar-42",
     "title": "Development of Economical and Effective",
     "authors": "NM Cuong, VT Tiep¹, NP Kien, H ChuDuc",
     "venue": "Intelligent Systems and Networks: Selected Articles from ICISN 2022, Vietnam, 83",
@@ -410,7 +420,7 @@
     "url": ""
   },
   {
-    "id": "scholar-42",
+    "id": "scholar-43",
     "title": "Development of Economical and Effective Ultraviolet (UVC) Irradiation Solutions and Equipment for Rapid Decontamination of SARS-CoV-2 on N95 Respirators",
     "authors": "NM Cuong, VT Tiep, NP Kien, H ChuDuc, GK Aleksanyan",
     "venue": "Intelligent Systems and Networks: Selected Articles from ICISN 2022, Vietnam …",
@@ -420,7 +430,7 @@
     "url": ""
   },
   {
-    "id": "scholar-43",
+    "id": "scholar-44",
     "title": "Giải pháp công nghệ khôi phục ảnh 3D từ ảnh 2D phục vụ chuyển đổi số và liên thông thư viện",
     "authors": "ĐH Chử, CD Trương, T Nguyễn",
     "venue": "Đại học Quốc gia Hà Nội",
@@ -430,7 +440,7 @@
     "url": ""
   },
   {
-    "id": "scholar-44",
+    "id": "scholar-45",
     "title": "Numerical design and optimization of a high compact, broadband optical three-mode selective converter by manipulating ITO-based controllable phase shifters integrated on …",
     "authors": "HT Duy, DNT Hang, TTT Thanh, DD Quang, HC Duc, MT Trinh, ...",
     "venue": "Optical Engineering 60 (11), 115104-115104",
@@ -440,7 +450,7 @@
     "url": ""
   },
   {
-    "id": "scholar-45",
+    "id": "scholar-46",
     "title": "Đổi mới sáng tạo: Giải pháp giúp doanh nghiệp từ Quỹ Đổi mới công nghệ quốc gia",
     "authors": "CĐ Hoàng",
     "venue": "",
@@ -450,7 +460,7 @@
     "url": ""
   },
   {
-    "id": "scholar-46",
+    "id": "scholar-47",
     "title": "Design and Demonstration of Compact, High Bandwidth Optical Mode Selective Devices by Realizing ITO-Based Controllable Phase Shifters Integrated on Silicon-on-Insulator Waveguides",
     "authors": "CD Truong, HT Duy, DNT Hang, TTT Thanh, DD Quang, HC Duc",
     "venue": "Preprints",
@@ -460,7 +470,7 @@
     "url": ""
   },
   {
-    "id": "scholar-47",
+    "id": "scholar-48",
     "title": "Real time inverse kinematics of a general 5-axis CNC machine",
     "authors": "AM Chu, CH Le, XB Duong, ELJ Bohez, MD Vu, TA Nguyen, VC Nguyen, ...",
     "venue": "Springer Nature",
@@ -470,7 +480,7 @@
     "url": ""
   },
   {
-    "id": "scholar-48",
+    "id": "scholar-49",
     "title": "Real Time Inverse Kinematics of Five-Axis CNC Centers",
     "authors": "TA Nguyen, MN Vu, ELJ Bohez, M Parkianather, CA My, CH Le, ...",
     "venue": "",
@@ -480,7 +490,7 @@
     "url": ""
   },
   {
-    "id": "scholar-49",
+    "id": "scholar-50",
     "title": "Robot thông minh trong thời đại công nghiệp 4.0",
     "authors": "CĐH TS, ĐVP GS, ĐTT TS",
     "venue": "",
@@ -490,7 +500,7 @@
     "url": ""
   },
   {
-    "id": "scholar-50",
+    "id": "scholar-51",
     "title": "Năng lực hội nhập quốc tế của nông nghiệp ứng dụng công nghệ cao Việt Nam",
     "authors": "ĐT Nguyễn, NA Vũ, VT Lê, ĐH Chử",
     "venue": "",
@@ -500,7 +510,7 @@
     "url": ""
   },
   {
-    "id": "scholar-51",
+    "id": "scholar-52",
     "title": "Design and implementation solutions for real-time embedded computer integrated FPGA technology",
     "authors": "TH Vũ, NV Thọ, ĐTB Ngọc, CĐ Hoàng",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng, 97-101",
@@ -510,7 +520,7 @@
     "url": ""
   },
   {
-    "id": "scholar-52",
+    "id": "scholar-53",
     "title": "The Effects of Brain Injury on Heart Rate Variability and the Innate Immune Response in Critically Ill Patients",
     "authors": "S Paulo, B Ali Ali, M Fortún Moral, ..., H ChuDuc, et al.",
     "venue": "Journal of Neurotrauma",
@@ -520,7 +530,7 @@
     "url": ""
   },
   {
-    "id": "scholar-53",
+    "id": "scholar-54",
     "title": "Designing solutions to IoT technology and hydroponic recovery application to cleaning manufacture with VietGap standard",
     "authors": "CĐ Hoàng, ĐX Trường, HTY Mai, NĐ Thành",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng, 51-56",
@@ -530,7 +540,7 @@
     "url": ""
   },
   {
-    "id": "scholar-54",
+    "id": "scholar-55",
     "title": "Research on smart mobile application and cloud technology for monitoring and diagnosing diabetes",
     "authors": "PVH Chử Đức Hoàng, T Thanh",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng",
@@ -540,7 +550,7 @@
     "url": ""
   },
   {
-    "id": "scholar-55",
+    "id": "scholar-56",
     "title": "Tiến sĩ trẻ khởi nghiệp với phần mềm kiểm soát bệnh tiểu đường",
     "authors": "T Tâm",
     "venue": "VnExpress",
@@ -550,7 +560,7 @@
     "url": ""
   },
   {
-    "id": "scholar-56",
+    "id": "scholar-57",
     "title": "PROPOSAL RECOGNITION ALGORITHM HANDWRITING USING NEURAL NETWORK",
     "authors": "TSNH Phat, TCĐ Hoàng",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng 1 (1)",
@@ -560,7 +570,7 @@
     "url": ""
   },
   {
-    "id": "scholar-57",
+    "id": "scholar-58",
     "title": "Phân tích tín hiệu tim loạn nhịp",
     "authors": "ĐH Chử",
     "venue": "",
@@ -570,7 +580,7 @@
     "url": ""
   },
   {
-    "id": "scholar-58",
+    "id": "scholar-59",
     "title": "Multi Detrended Fluctuation Analysis In Heart Rate Variability Of Early Infants",
     "authors": "HC Duc, TN Duc, LN Thanh",
     "venue": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng, 63-66",
@@ -580,7 +590,7 @@
     "url": ""
   },
   {
-    "id": "scholar-59",
+    "id": "scholar-60",
     "title": "ATC/REV 2014",
     "authors": "P Anh, H Minh, RW Heath, NX Quynh, HH Tue, VT Lam, NM Phuong, ...",
     "venue": "The International Conference on Advanced Technologies for Communications …",
@@ -590,7 +600,7 @@
     "url": ""
   },
   {
-    "id": "scholar-60",
+    "id": "scholar-61",
     "title": "PHÂN TÍCH LOẠN NHỊP TIM SỬ DỤNG PHƯƠNG PHÁP POINCARÉ PLOT PHÂN TÍCH CÁC KHOẢNG RR",
     "authors": "TL Nguyen, DT Pham, DH Chu, DT Nguyen",
     "venue": "Đại học Đà Nẵng",
@@ -600,7 +610,7 @@
     "url": ""
   },
   {
-    "id": "scholar-61",
+    "id": "scholar-62",
     "title": "PHÂN TÍCH BIẾN ĐỘNG TÍN HIỆU LOẠN NHỊP TIM ĐA TRỊ Ở TRẺ NHỎ",
     "authors": "CD Hoang, ND Thuan, NT Linh",
     "venue": "Đại học Đà Nẵng",
@@ -610,7 +620,7 @@
     "url": ""
   },
   {
-    "id": "scholar-62",
+    "id": "scholar-63",
     "title": "Mobile device based HRV analysis system",
     "authors": "H ChuDuc, L DuongTrong, T NguyenDuc, D TrinhQuang",
     "venue": "2013 Fifth International Conference on Ubiquitous and Future Networks (ICUFN …",
@@ -620,7 +630,7 @@
     "url": ""
   },
   {
-    "id": "scholar-63",
+    "id": "scholar-64",
     "title": "Hệ thống theo dõi tín hiệu bệnh nhân",
     "authors": "ĐH Chử",
     "venue": "Trường Đại học Bách khoa Hà Nội",
@@ -630,7 +640,17 @@
     "url": ""
   },
   {
-    "id": "scholar-64",
+    "id": "scholar-65",
+    "title": "2013 13th International Conference on Computational Science and Its Applications ICCSA 2013",
+    "authors": "H Higaki, RVL Araújo, FJS e Silva",
+    "venue": "",
+    "year": "",
+    "citations": "",
+    "topic": "STI",
+    "url": ""
+  },
+  {
+    "id": "scholar-66",
     "title": "Big-Data-Driven Federated Hybrid CNN–Transformer Learning for Non-Invasive Multi-Class Skin Cancer Diagnosis Using Raman Spectroscopy",
     "authors": "H ChuDuc, NT Tung",
     "venue": "Available at SSRN 7465750, 0",
@@ -640,7 +660,7 @@
     "url": ""
   },
   {
-    "id": "scholar-65",
+    "id": "scholar-67",
     "title": "A Page",
     "authors": "A Nouainia, AQ Nguyen, A Filipkowski, A Mai, AA Nasir, A Massaccesi, ...",
     "venue": "",
@@ -650,7 +670,7 @@
     "url": ""
   },
   {
-    "id": "scholar-66",
+    "id": "scholar-68",
     "title": "Dhruvik Agravat Marwadi University India",
     "authors": "DH Ai, O Aiello, VN Quoc, J Bapat, K Tirumala, A Kumar, N Bhatia, DH Bui, ...",
     "venue": "",
@@ -660,7 +680,7 @@
     "url": ""
   },
   {
-    "id": "scholar-67",
+    "id": "scholar-69",
     "title": "Physics-Informed Monte Carlo Data Augmentation for Robust Raman-Based Skin Cancer Classification Under Small-Sample Constraints",
     "authors": "H ChuDuc, NT Tung",
     "venue": "Available at SSRN 7169016, 0",
@@ -670,7 +690,7 @@
     "url": ""
   },
   {
-    "id": "scholar-68",
+    "id": "scholar-70",
     "title": "Copyright Page ix Organizing Committee Information x Authors Index xiii Effect Of Mimosa Pudica Linn Extract On Excision Wound Healing 1 Chiuyen Phan, Tantai Vo, Dinhtrung Tran …",
     "authors": "AL Nguyen",
     "venue": "",
@@ -680,7 +700,7 @@
     "url": ""
   },
   {
-    "id": "scholar-69",
+    "id": "scholar-71",
     "title": "Designing Forecasting Parameter Algorithm of Environmental Shrimp Using Recurrent Neural",
     "authors": "PN Huu, QD Diem, ML Van, HC Duc, NC Tu, NT Binh, NQ Dinh, ...",
     "venue": "",
@@ -690,7 +710,7 @@
     "url": ""
   },
   {
-    "id": "scholar-70",
+    "id": "scholar-72",
     "title": "Final Program",
     "authors": "GM Danang",
     "venue": "",
@@ -700,7 +720,7 @@
     "url": ""
   },
   {
-    "id": "scholar-71",
+    "id": "scholar-73",
     "title": "Fatma Abdelkefi High School of Communications of Tunis (SUPCOM) Tunisia Chadi Abou-Rjeily Lebanese American University (LAU) Lebanon Syed Hassan Ahmed University of Central …",
     "authors": "M Alencar, G Alfano, M Alghoniemy, MY Alias, S Althunibat, ...",
     "venue": "",
@@ -710,7 +730,7 @@
     "url": ""
   },
   {
-    "id": "scholar-72",
+    "id": "scholar-74",
     "title": "Tran Duc-Tan Phenikaa University Vietnam Tran Trung Duy Posts and Telecommunications Institute of Technology Vietnam Wei Feng Tsinghua University China",
     "authors": "YL Foo, JGU France, R Garroppo, D Gasior, A Gawanmeh, CS Gong, ...",
     "venue": "",
@@ -720,7 +740,7 @@
     "url": ""
   },
   {
-    "id": "scholar-73",
+    "id": "scholar-75",
     "title": "Fatma Abdelkefi High School of Communications of Tunis (SUPCOM) Tunisia Chadi Abou-Rjeily Lebanese American University (LAU) Lebanon Thomas Ågotnes University of Bergen Norway …",
     "authors": "C Tran",
     "venue": "",
@@ -730,7 +750,7 @@
     "url": ""
   },
   {
-    "id": "scholar-74",
+    "id": "scholar-76",
     "title": "A. Chaminda J. Samarasekera Kyung Hee University Korea Adrianna",
     "authors": "AJDE Germany, BJENS de Cachan France, BJ Choi, CTN Australia",
     "venue": "",
@@ -740,7 +760,7 @@
     "url": ""
   },
   {
-    "id": "scholar-75",
+    "id": "scholar-77",
     "title": "MÔ HÌNH KIẾN TRÚC TỔNG THỂ HỆ THỐNG HỖ TRỢ VÀ QUẢN LÝ DU KHÁCH NHẰM PHÁT TRIỂN DU LỊCH BỀN VỮNG THEO ĐỊNH HƯỚNG THÀNH PHỐ THÔNG MINH TẠI ĐÀ NẴNG",
     "authors": "CIN DANANG",
     "venue": "",
@@ -750,7 +770,7 @@
     "url": ""
   },
   {
-    "id": "scholar-76",
+    "id": "scholar-78",
     "title": "TẠP CHÍ",
     "authors": "Đ SAO ĐỎ",
     "venue": "",
@@ -760,7 +780,7 @@
     "url": ""
   },
   {
-    "id": "scholar-77",
+    "id": "scholar-79",
     "title": "Phát triển các giải pháp và thiết bị chiếu tia cực tím (UVC) tiết kiệm và hiệu quả để khử nhiễm nhanh chóng SARS-CoV-2 trên khẩu trang N95",
     "authors": "NM Cường, ĐT Huy, VT Tiếp, CĐ Hoàng",
     "venue": "",
@@ -770,7 +790,7 @@
     "url": ""
   },
   {
-    "id": "scholar-78",
+    "id": "scholar-80",
     "title": "xây dựng giải pháp ỨNG DỤNG CÔNG NGHỆ iOT VÀ THUỶ CANH HỒI LƯU TRONG SẢN XUẤT SẠCH ĐẠT TIÊU CHUẨN VIETGAP",
     "authors": "CĐ Hoàng, ĐX Trường, HTY Mai, NĐ Thành",
     "venue": "",
@@ -780,7 +800,7 @@
     "url": ""
   },
   {
-    "id": "scholar-79",
+    "id": "scholar-81",
     "title": "Research on Smart Mobile Application and Cloud TECHNOLOGY for Monitoring and Diagnosing Diabetes",
     "authors": "PVHCĐ Hoàng",
     "venue": "The University of Danang-Journal of Science and Technology, 449531, 0",
@@ -790,7 +810,7 @@
     "url": ""
   },
   {
-    "id": "scholar-80",
+    "id": "scholar-82",
     "title": "Design and Manufacture Electronic Scales for Adult Patients",
     "authors": "KNP Le Xuan Canh, H ChuDuc",
     "venue": "",
@@ -800,7 +820,7 @@
     "url": ""
   },
   {
-    "id": "scholar-81",
+    "id": "scholar-83",
     "title": "Tính toán và phân tích các chỉ số Poincaré đa giá trị của các bệnh nhân suy tim sung huyết",
     "authors": "L NguyenThanh, K NguyenPhan, D TrinhQuang, H ChuDuc",
     "venue": "",
@@ -810,7 +830,7 @@
     "url": ""
   },
   {
-    "id": "scholar-82",
+    "id": "scholar-84",
     "title": "Hệ thống ổn định nhiệt độ cho tủ lưu trữ máu",
     "authors": "CT Dũng, K NguyenPhan, NM Cường, H ChuDuc",
     "venue": "",
@@ -820,7 +840,7 @@
     "url": ""
   },
   {
-    "id": "scholar-83",
+    "id": "scholar-85",
     "title": "A Data Acquisition System for QRS Detections",
     "authors": "H ChuDuc, K NguyenPhan",
     "venue": "",
@@ -830,7 +850,7 @@
     "url": ""
   },
   {
-    "id": "scholar-84",
+    "id": "scholar-86",
     "title": "Information from graphical analysis of heart rate variability using chaos theory",
     "authors": "H ChuDuc, T NguyenDuc",
     "venue": "",
@@ -840,7 +860,7 @@
     "url": ""
   },
   {
-    "id": "scholar-85",
+    "id": "scholar-87",
     "title": "A Brief Review of Biomedical Optical Imaging Towards Clinical Applications",
     "authors": "TQ Duc, TD Thanh, K NguyenPhan, H ChuDuc",
     "venue": "",
@@ -850,7 +870,7 @@
     "url": ""
   },
   {
-    "id": "scholar-86",
+    "id": "scholar-88",
     "title": "Measurement of heart rate variability by methods based on chaos theory.",
     "authors": "H ChuDuc, T NguyenDuc",
     "venue": "",
